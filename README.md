@@ -2,14 +2,15 @@
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Python-3.10-blue?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jupyter-Notebook-orange?style=for-the-badge&logo=jupyter&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-Data%20Analysis-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/Seaborn-Visualization-4C72B0?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-Regression-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Dataset-Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3.10-blue?style=flat&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jupyter-Notebook-orange?style=flat&logo=jupyter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-Data%20Analysis-150458?style=flat&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Seaborn-Visualization-4C72B0?style=flat"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-Regression-F7931E?style=flat&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Dataset-Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white"/>
 
 </p>
+
 
 
 Exploratory Data Analysis (EDA) on a dataset of student exam scores.
