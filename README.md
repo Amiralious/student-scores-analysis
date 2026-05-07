@@ -1,12 +1,12 @@
 # Student Scores Analysis
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3.10-blue" />
-  <img src="https://img.shields.io/badge/Jupyter-Notebook-orange" />
-  <img src="https://img.shields.io/badge/Pandas-Used-green" />
-  <img src="https://img.shields.io/badge/Seaborn-Visualization-9cf" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-Regression-yellow" />
-  <img src="https://img.shields.io/badge/Dataset-Kaggle-red" />
+  <img src="https://img.shields.io/badge/Python-3.10-blue?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-Notebook-orange?style=flat-square&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-Data%20Analysis-green?style=flat-square&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-Visualization-blueviolet?style=flat-square" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-Regression-yellow?style=flat-square&logo=scikitlearn&logoColor=black" />
+  <img src="https://img.shields.io/badge/Dataset-Kaggle-red?style=flat-square&logo=kaggle&logoColor=white" />
 </p>
 
 Exploratory Data Analysis (EDA) on a dataset of student exam scores.
